@@ -1,0 +1,15 @@
+{
+  "key": "value",
+  "foo": {
+    "bar": "111",
+    "count": "22"
+  },
+  "name": "22222",
+  "version": "0.1.1",
+  "description": "22222",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0"
+  }
+}
